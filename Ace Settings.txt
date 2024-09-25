@@ -80,7 +80,7 @@ force ace_csw_progressBarTimeCoefficent = 1;
 
 // ACE Durchzündung
 force ace_cookoff_ammoCookoffDuration = 1;
-force ace_cookoff_destroyVehicleAfterCookoff = true;
+force ace_cookoff_destroyVehicleAfterCookoff = false;
 force ace_cookoff_enable = 2;
 force ace_cookoff_enableAmmobox = true;
 force ace_cookoff_enableAmmoCookoff = true;
@@ -115,7 +115,7 @@ force ace_advanced_ballistics_simulationInterval = 0.05;
 
 // ACE Erweiterter Fahrzeugsschaden
 force ace_vehicle_damage_enableCarDamage = false;
-force ace_vehicle_damage_enabled = false;
+force ace_vehicle_damage_enabled = true;
 force ace_vehicle_damage_removeAmmoDuringCookoff = true;
 
 // ACE Erweitertes Wurfsystem
